@@ -1,0 +1,21 @@
+GUNCELMOJOBET SEO PAKETİ
+
+Repository:
+https://github.com/mojobet2026/guncelmojobet
+
+Yayın adresi:
+https://mojobet2026.github.io/guncelmojobet/
+
+YÜKLEME:
+1. ZIP dosyasını açın.
+2. İçindeki bütün dosyaları repository ana dizinine yükleyin.
+3. Aynı isimli eski dosyaların üzerine yazın.
+4. Commit changes düğmesine basın.
+5. Yayının güncellenmesi için birkaç dakika bekleyin.
+
+SEARCH CONSOLE:
+1. Site Haritaları bölümüne sitemap.xml yazıp gönderin.
+2. URL Denetimi ile ana sayfa ve önemli alt sayfalar için dizine eklenmesini isteyin.
+
+Site haritası adresi:
+https://mojobet2026.github.io/guncelmojobet/sitemap.xml
